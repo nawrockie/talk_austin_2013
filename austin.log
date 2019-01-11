@@ -1,0 +1,474 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2007.11.2)  16 FEB 2013 09:17
+entering extended mode
+**austin
+(./austin.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/slides.cls
+Document Class: slides 1997/08/15 v2.3z Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/slides.def
+File: slides.def 1997/08/15 v2.3z SLiTeX definitions
+ hacks, slides,
+\c@page=\count79
+ picture, mods,
+\@smashboxa=\box26
+\@smashboxb=\box27
+\@smashboxc=\box28
+
+output, init) (/usr/share/texmf/tex/latex/base/sfonts.def
+File: sfonts.def 1998/06/12 v2.2e Standard LaTeX slide font definitions
+
+(/usr/share/texmf/tex/latex/base/ot1lcmss.fd
+File: ot1lcmss.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+))
+\c@minutes=\count80
+\c@seconds=\count81
+\c@mv@invisible=\count82
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lcmss/m/n on input line 369.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lcmm/m/it on input line 372.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lcmsy/m/n on input line 374.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lcmex/m/n on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `invisible'
+(Font)                  OT1/cmr/m/n --> OT1/lcmss/m/In on input line 379.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `invisible'
+(Font)                  OML/cmm/m/it --> OML/lcmm/m/Iit on input line 381.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `invisible'
+(Font)                  OMS/cmsy/m/n --> OMS/lcmsy/m/In on input line 383.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `invisibl
+e'
+(Font)                  OMX/cmex/m/n --> OMX/lcmex/m/In on input line 385.
+)
+(/usr/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gm@cnth=\count83
+\Gm@cntv=\count84
+\c@Gm@tempcnt=\count85
+\Gm@bindingoffset=\dimen102
+\Gm@wd@mp=\dimen103
+\Gm@odd@mp=\dimen104
+\Gm@even@mp=\dimen105
+\Gm@dimlist=\toks15
+
+(/usr/share/texmf/tex/latex/geometry/geometry.cfg))
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.cfg
+File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(/usr/share/texmf/tex/latex/graphics/pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count86
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/graphics/color.cfg
+File: color.cfg 2005/02/03 v1.3 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+)
+(/usr/share/texmf/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+(/usr/share/texmf/tex/latex/carlisle/nopageno.sty
+Package: nopageno 1989/01/01 no page numbers (DPC)
+)
+(/usr/share/texmf/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (./austin.aux)
+\openout1 = `austin.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/lcmss/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+-------------------- Geometry parameters
+paper: class default
+landscape: true
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 5.69046pt, 783.58907pt, 5.69046pt
+v-parts: 5.69046pt, 600.06885pt, 8.53569pt
+hmarginratio: --
+vmarginratio: 2:3
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  794.96999pt
+\paperheight 614.295pt
+\textwidth  783.58907pt
+\textheight 600.06885pt
+\oddsidemargin  -66.57953pt
+\evensidemargin -66.57953pt
+\topmargin  -66.57953pt
+\headheight 0.0pt
+\headsep    0.0pt
+\footskip   0.0pt
+\marginparwidth 58.0312pt
+\marginparsep   5.0pt
+\columnsep  10.0pt
+\skip\footins  10.0pt plus 2.0pt minus 4.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+ (/usr/share/texmf/tex/context/base/supp-pdf.tex
+(/usr/share/texmf/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count87
+\scratchcounter=\count88
+\scratchtoks=\toks18
+\scratchdimen=\dimen108
+\scratchskip=\skip41
+\scratchmuskip=\muskip10
+\scratchbox=\box29
+\scratchread=\read2
+\scratchwrite=\write3
+\zeropoint=\dimen109
+\onepoint=\dimen110
+\onebasepoint=\dimen111
+\minusone=\count89
+\thousandpoint=\dimen112
+\onerealpoint=\dimen113
+\emptytoks=\toks19
+\nextbox=\box30
+\nextdepth=\dimen114
+\everyline=\toks20
+\!!counta=\count90
+\!!countb=\count91
+\recursecounter=\count92
+)
+loading : Context Support Macros / PDF (2004.03.26)
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen115
+\MPnumerator=\count96
+\everyMPtoPDFconversion=\toks21
+)
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 40.
+
+ (/usr/share/texmf/tex/latex/base/omllcmm.fd
+File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 40
+.
+
+(/usr/share/texmf/tex/latex/base/omslcmsy.fd
+File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 40
+.
+
+(/usr/share/texmf/tex/latex/base/omxlcmex.fd
+File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <16.59> on input line 40.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <7> on input line 40.
+
+Warning: pdflatex (file figs/janelia-logo.pdf): pdf inclusion: found pdf versio
+n <1.5>, but at most version <1.4> allowed
+<figs/janelia-logo.pdf, id=1, 551.1792pt x 188.1429pt>
+File: figs/janelia-logo.pdf Graphic file (type pdf)
+
+<use figs/janelia-logo.pdf> [1
+
+{/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figs/janelia-logo.
+pdf>]
+Underfull \hbox (badness 1226) in paragraph at lines 61--62
+[]\OT1/lcmss/m/n/16.59 needed ``\OT1/lcmss/m/sl/16.59 a molecule of ap-pro-pri-
+ately
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 61--62
+\OT1/lcmss/m/sl/16.59 broad dis-tri-bu-tion\OT1/lcmss/m/n/16.59 '' for com-par-
+a-tive
+ []
+
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <19.907> on input line 72.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <13.82> on input line 72.
+<figs/bigtol.pdf, id=20, 435.6275pt x 544.0325pt>
+File: figs/bigtol.pdf Graphic file (type pdf)
+ <use figs/bigtol.pdf>
+Overfull \hbox (7.9866pt too wide) in paragraph at lines 56--77
+$[]$   $[]$ 
+ []
+
+[2 <./figs/bigtol.pdf>]
+<figs/ecoli_16S_man.pdf, id=37, 487.8225pt x 617.30624pt>
+File: figs/ecoli_16S_man.pdf Graphic file (type pdf)
+
+<use figs/ecoli_16S_man.pdf>
+<figs/mvan_16S_man.pdf, id=38, 514.92375pt x 660.4675pt>
+File: figs/mvan_16S_man.pdf Graphic file (type pdf)
+
+<use figs/mvan_16S_man.pdf>
+<figs/zmays_16S_man.pdf, id=39, 566.115pt x 728.7225pt>
+File: figs/zmays_16S_man.pdf Graphic file (type pdf)
+
+<use figs/zmays_16S_man.pdf>
+LaTeX Font Info:    Try loading font information for OT1+lcmtt on input line 10
+0.
+ (/usr/share/texmf/tex/latex/base/ot1lcmtt.fd
+File: ot1lcmtt.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+[3 <./figs/ecoli_16S_man.pdf> <./figs/mvan_16S_man.pdf> <./figs/zmays_16S_man.p
+df>]
+Underfull \hbox (badness 10000) in paragraph at lines 173--176
+
+ []
+
+<figs/environmental.pdf, id=79, 328.22626pt x 651.43375pt>
+File: figs/environmental.pdf Graphic file (type pdf)
+
+<use figs/environmental.pdf>
+Overfull \hbox (1.67809pt too wide) in paragraph at lines 181--183
+[][]
+ []
+
+[4 <./figs/environmental.pdf>]
+<figs/seq2tree-2013-goals.pdf, id=90, 558.19742pt x 401.22998pt>
+File: figs/seq2tree-2013-goals.pdf Graphic file (type pdf)
+
+<use figs/seq2tree-2013-goals.pdf> [5 <./figs/seq2tree-2013-goals.pdf
+Warning: pdflatex (file ./figs/seq2tree-2013-goals.pdf): pdf inclusion: Page Gr
+oup detected which pdfTeX can't handle. Ignoring it.
+>] <figs/denovo-alignment.pdf, id=116, 685.45888pt x 644.33325pt>
+File: figs/denovo-alignment.pdf Graphic file (type pdf)
+
+<use figs/denovo-alignment.pdf> [6 <./figs/denovo-alignment.pdf>]
+<figs/nn-only.pdf, id=125, 600.4302pt x 589.11897pt>
+File: figs/nn-only.pdf Graphic file (type pdf)
+ <use figs/nn-only.pdf>
+[7 <./figs/nn-only.pdf
+Warning: pdflatex (file ./figs/nn-only.pdf): pdf inclusion: Page Group detected
+ which pdfTeX can't handle. Ignoring it.
+>] <figs/profile-only.pdf, id=175, 498.71822pt x 536.85971pt>
+File: figs/profile-only.pdf Graphic file (type pdf)
+
+<use figs/profile-only.pdf> [8 <./figs/profile-only.pdf
+Warning: pdflatex (file ./figs/profile-only.pdf): pdf inclusion: Page Group det
+ected which pdfTeX can't handle. Ignoring it.
+>] <figs/alignment-hmm-only.pdf, id=205, 429.9031pt x 324.55353pt>
+File: figs/alignment-hmm-only.pdf Graphic file (type pdf)
+
+<use figs/alignment-hmm-only.pdf> [9 <./figs/alignment-hmm-only.pdf>]
+<figs/alignment-hmm-layer1.pdf, id=230, 832.56848pt x 701.43054pt>
+File: figs/alignment-hmm-layer1.pdf Graphic file (type pdf)
+
+<use figs/alignment-hmm-layer1.pdf> [10 <./figs/alignment-hmm-layer1.pdf>]
+<figs/alignment-hmm-layer2.pdf, id=257, 832.56848pt x 701.43054pt>
+File: figs/alignment-hmm-layer2.pdf Graphic file (type pdf)
+
+<use figs/alignment-hmm-layer2.pdf> [11 <./figs/alignment-hmm-layer2.pdf>]
+<figs/alignment-hmm-urchin-example.pdf, id=282, 1019.25795pt x 390.65247pt>
+File: figs/alignment-hmm-urchin-example.pdf Graphic file (type pdf)
+
+<use figs/alignment-hmm-urchin-example.pdf> [12 <./figs/alignment-hmm-urchin-ex
+ample.pdf>]
+<figs/bacteria-info-inserts.pdf, id=296, 1047.04175pt x 766.43541pt>
+File: figs/bacteria-info-inserts.pdf Graphic file (type pdf)
+
+<use figs/bacteria-info-inserts.pdf> [13 <./figs/bacteria-info-inserts.pdf>]
+<figs/bacteria-info-mutinfo.pdf, id=324, 1047.04175pt x 766.43541pt>
+File: figs/bacteria-info-mutinfo.pdf Graphic file (type pdf)
+
+<use figs/bacteria-info-mutinfo.pdf> [14 <./figs/bacteria-info-mutinfo.pdf>]
+<figs/cmintro_bandcyk.pdf, id=351, 534.1225pt x 286.34076pt>
+File: figs/cmintro_bandcyk.pdf Graphic file (type pdf)
+
+<use figs/cmintro_bandcyk.pdf> [15 <./figs/cmintro_bandcyk.pdf>]
+<figs/diana_benchmark_l2.pdf, id=389, 1053.9375pt x 306.14375pt>
+File: figs/diana_benchmark_l2.pdf Graphic file (type pdf)
+
+<use figs/diana_benchmark_l2.pdf> [16 <./figs/diana_benchmark_l2.pdf>] [17]
+<figs/seq2tree-2013-thin-mask.pdf, id=404, 198.40623pt x 401.22998pt>
+File: figs/seq2tree-2013-thin-mask.pdf Graphic file (type pdf)
+
+<use figs/seq2tree-2013-thin-mask.pdf> [18 <./figs/seq2tree-2013-thin-mask.pdf
+Warning: pdflatex (file ./figs/seq2tree-2013-thin-mask.pdf): pdf inclusion: Pag
+e Group detected which pdfTeX can't handle. Ignoring it.
+>] <figs/archaea-mask-ph-only.pdf, id=425, 563.438pt x 795.72882pt>
+File: figs/archaea-mask-ph-only.pdf Graphic file (type pdf)
+
+<use figs/archaea-mask-ph-only.pdf> [19 <./figs/archaea-mask-ph-only.pdf>]
+<figs/arc-1.pdf, id=446, 614.295pt x 794.97pt>
+File: figs/arc-1.pdf Graphic file (type pdf)
+ <use figs/arc-1.pdf> [20 <./figs/arc-1.pdf>] <figs/arc-2.pdf, id=456, 614.295p
+t x 794.97pt>
+File: figs/arc-2.pdf Graphic file (type pdf)
+
+<use figs/arc-2.pdf> [21 <./figs/arc-2.pdf>]
+<figs/arc-3.pdf, id=466, 614.295pt x 794.97pt>
+File: figs/arc-3.pdf Graphic file (type pdf)
+ <use figs/arc-3.pdf> [22 <./figs/arc-3.pdf>] <figs/arc-11.pdf, id=476, 614.295
+pt x 794.97pt>
+File: figs/arc-11.pdf Graphic file (type pdf)
+
+<use figs/arc-11.pdf> [23 <./figs/arc-11.pdf>]
+<figs/arc-12.pdf, id=486, 614.295pt x 794.97pt>
+File: figs/arc-12.pdf Graphic file (type pdf)
+ <use figs/arc-12.pdf> [24 <./figs/arc-12.pdf>] <figs/arc-13.pdf, id=496, 614.2
+95pt x 794.97pt>
+File: figs/arc-13.pdf Graphic file (type pdf)
+
+<use figs/arc-13.pdf> [25 <./figs/arc-13.pdf>]
+<figs/arc-14.pdf, id=507, 614.295pt x 794.97pt>
+File: figs/arc-14.pdf Graphic file (type pdf)
+ <use figs/arc-14.pdf> [26 <./figs/arc-14.pdf>] <figs/arc-15.pdf, id=517, 614.2
+95pt x 794.97pt>
+File: figs/arc-15.pdf Graphic file (type pdf)
+
+<use figs/arc-15.pdf> [27 <./figs/arc-15.pdf>]
+<figs/arc-16.pdf, id=527, 614.295pt x 794.97pt>
+File: figs/arc-16.pdf Graphic file (type pdf)
+ <use figs/arc-16.pdf> [28 <./figs/arc-16.pdf>] <figs/arc-17.pdf, id=537, 614.2
+95pt x 794.97pt>
+File: figs/arc-17.pdf Graphic file (type pdf)
+
+<use figs/arc-17.pdf> [29 <./figs/arc-17.pdf>]
+<figs/arc-18.pdf, id=547, 614.295pt x 794.97pt>
+File: figs/arc-18.pdf Graphic file (type pdf)
+ <use figs/arc-18.pdf> [30 <./figs/arc-18.pdf>] <figs/arc-19.pdf, id=557, 614.2
+95pt x 794.97pt>
+File: figs/arc-19.pdf Graphic file (type pdf)
+
+<use figs/arc-19.pdf> [31 <./figs/arc-19.pdf>]
+<figs/arc-22.pdf, id=568, 614.295pt x 794.97pt>
+File: figs/arc-22.pdf Graphic file (type pdf)
+ <use figs/arc-22.pdf> [32 <./figs/arc-22.pdf>] <figs/arc-23.pdf, id=578, 614.2
+95pt x 794.97pt>
+File: figs/arc-23.pdf Graphic file (type pdf)
+
+<use figs/arc-23.pdf> [33 <./figs/arc-23.pdf>]
+<figs/arc-24.pdf, id=588, 614.295pt x 794.97pt>
+File: figs/arc-24.pdf Graphic file (type pdf)
+ <use figs/arc-24.pdf> [34 <./figs/arc-24.pdf>] <figs/arc-25.pdf, id=598, 614.2
+95pt x 794.97pt>
+File: figs/arc-25.pdf Graphic file (type pdf)
+
+<use figs/arc-25.pdf> [35 <./figs/arc-25.pdf>]
+File: figs/archaea-mask-ph-only.pdf Graphic file (type pdf)
+
+<use figs/archaea-mask-ph-only.pdf> [36]
+<figs/archaea-mask-pp-only.pdf, id=611, 549.79199pt x 796.0591pt>
+File: figs/archaea-mask-pp-only.pdf Graphic file (type pdf)
+
+<use figs/archaea-mask-pp-only.pdf> [37 <./figs/archaea-mask-pp-only.pdf>]
+<figs/archaea-mask-ph-v-pp-both.pdf, id=632, 1113.22896pt x 796.0591pt>
+File: figs/archaea-mask-ph-v-pp-both.pdf Graphic file (type pdf)
+
+<use figs/archaea-mask-ph-v-pp-both.pdf> [38 <./figs/archaea-mask-ph-v-pp-both.
+pdf>] <figs/archaea-mask-ph-v-pp-diff.pdf, id=654, 554.98143pt x 835.36493pt>
+File: figs/archaea-mask-ph-v-pp-diff.pdf Graphic file (type pdf)
+
+<use figs/archaea-mask-ph-v-pp-diff.pdf> [39 <./figs/archaea-mask-ph-v-pp-diff.
+pdf>]
+<figs/archaea-mask-pp-and-deletes.pdf, id=674, 1122.35313pt x 796.0591pt>
+File: figs/archaea-mask-pp-and-deletes.pdf Graphic file (type pdf)
+
+<use figs/archaea-mask-pp-and-deletes.pdf> [40 <./figs/archaea-mask-pp-and-dele
+tes.pdf>]
+
+LaTeX Font Warning: Font shape `OT1/lcmss/m/n' in size <6> not available
+(Font)              size <7> substituted on input line 524.
+
+
+LaTeX Font Warning: Font shape `OML/lcmm/m/it' in size <6> not available
+(Font)              size <7> substituted on input line 524.
+
+
+LaTeX Font Warning: Font shape `OMS/lcmsy/m/n' in size <6> not available
+(Font)              size <7> substituted on input line 524.
+
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <8> on input line 524.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <6> on input line 524.
+[41] <figs/seq2tree-2013-ssu-align.pdf, id=699, 737.93893pt x 401.22998pt>
+File: figs/seq2tree-2013-ssu-align.pdf Graphic file (type pdf)
+
+<use figs/seq2tree-2013-ssu-align.pdf> [42 <./figs/seq2tree-2013-ssu-align.pdf
+Warning: pdflatex (file ./figs/seq2tree-2013-ssu-align.pdf): pdf inclusion: Pag
+e Group detected which pdfTeX can't handle. Ignoring it.
+>] <figs/jfrc-banner1.pdf, id=737, 596.2275pt x 214.8025pt>
+File: figs/jfrc-banner1.pdf Graphic file (type pdf)
+
+<use figs/jfrc-banner1.pdf> [43 <./figs/jfrc-banner1.pdf>] (./austin.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1642 strings out of 94500
+ 25031 string characters out of 1173669
+ 69385 words of memory out of 1000000
+ 4782 multiletter control sequences out of 10000+50000
+ 11439 words of font info for 40 fonts, out of 500000 for 2000
+ 580 hyphenation exceptions out of 1000
+ 27i,14n,19p,218b,368s stack positions out of 1500i,500n,5000p,200000b,5000s
+PDF statistics:
+ 748 PDF objects out of 300000
+ 0 named destinations out of 131072
+ 211 words of extra memory for PDF output out of 65536
+</usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/ty
+pe1/bluesky/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/bluesky/latex/lcmssi8.pf
+b></usr/share/texmf/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts/ty
+pe1/bluesky/latex/lcmss8.pfb></usr/share/texmf/fonts/type1/bluesky/latex/lcmssb
+8.pfb>
+Output written on austin.pdf (43 pages, 8686716 bytes).
